@@ -1,0 +1,16 @@
+D:\SD-Card\VisualStudios\projects\SimplestMathProblem\SimplestMathProblem\bin\Debug\net5.0\SimplestMathProblem.exe
+D:\SD-Card\VisualStudios\projects\SimplestMathProblem\SimplestMathProblem\bin\Debug\net5.0\SimplestMathProblem.deps.json
+D:\SD-Card\VisualStudios\projects\SimplestMathProblem\SimplestMathProblem\bin\Debug\net5.0\SimplestMathProblem.runtimeconfig.json
+D:\SD-Card\VisualStudios\projects\SimplestMathProblem\SimplestMathProblem\bin\Debug\net5.0\SimplestMathProblem.runtimeconfig.dev.json
+D:\SD-Card\VisualStudios\projects\SimplestMathProblem\SimplestMathProblem\bin\Debug\net5.0\SimplestMathProblem.dll
+D:\SD-Card\VisualStudios\projects\SimplestMathProblem\SimplestMathProblem\bin\Debug\net5.0\ref\SimplestMathProblem.dll
+D:\SD-Card\VisualStudios\projects\SimplestMathProblem\SimplestMathProblem\bin\Debug\net5.0\SimplestMathProblem.pdb
+D:\SD-Card\VisualStudios\projects\SimplestMathProblem\SimplestMathProblem\obj\Debug\net5.0\SimplestMathProblem.csproj.AssemblyReference.cache
+D:\SD-Card\VisualStudios\projects\SimplestMathProblem\SimplestMathProblem\obj\Debug\net5.0\SimplestMathProblem.GeneratedMSBuildEditorConfig.editorconfig
+D:\SD-Card\VisualStudios\projects\SimplestMathProblem\SimplestMathProblem\obj\Debug\net5.0\SimplestMathProblem.AssemblyInfoInputs.cache
+D:\SD-Card\VisualStudios\projects\SimplestMathProblem\SimplestMathProblem\obj\Debug\net5.0\SimplestMathProblem.AssemblyInfo.cs
+D:\SD-Card\VisualStudios\projects\SimplestMathProblem\SimplestMathProblem\obj\Debug\net5.0\SimplestMathProblem.csproj.CoreCompileInputs.cache
+D:\SD-Card\VisualStudios\projects\SimplestMathProblem\SimplestMathProblem\obj\Debug\net5.0\SimplestMathProblem.dll
+D:\SD-Card\VisualStudios\projects\SimplestMathProblem\SimplestMathProblem\obj\Debug\net5.0\ref\SimplestMathProblem.dll
+D:\SD-Card\VisualStudios\projects\SimplestMathProblem\SimplestMathProblem\obj\Debug\net5.0\SimplestMathProblem.pdb
+D:\SD-Card\VisualStudios\projects\SimplestMathProblem\SimplestMathProblem\obj\Debug\net5.0\SimplestMathProblem.genruntimeconfig.cache
