@@ -1,6 +1,6 @@
 # SimplestMathProblem
-This is a console application that will calculate the simplest math problem for you with any given parameter. Basically it's a big function.
-It can also write all the values that it calculates into a file, it just might take a bit more time to do so given your writing speeds for your drive.
+This is a console application that will run calculations for [the simplest math problem](https://youtu.be/094y1Z2wpJg?si=NsgquFOkEKhXeLyd) for you with any given parameter.
+It can also write all the values that it calculates into a file, it just might take a bit more time to do so given your writing speeds.
 
 ## Here's how the whole thing works:
 - You take any natural number (it only works with integers)
